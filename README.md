@@ -1,1 +1,3 @@
 # SCSportScores
+
+https://appwrite.io/
